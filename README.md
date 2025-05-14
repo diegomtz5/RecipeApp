@@ -1,6 +1,6 @@
 ### Summary: Include screen shots or a video of your app highlighting its features
-![Recipe Image](https://github.com/diegomtz5/RecipeApp/blob/main/IMG_0268.PNG?raw=true)
-![Recipe Image](https://github.com/diegomtz5/RecipeApp/blob/main/IMG_0269.PNG?raw=true)
+<img src="https://github.com/diegomtz5/RecipeApp/blob/main/IMG_0268.PNG?raw=true" width="300" />
+<img src="https://github.com/diegomtz5/RecipeApp/blob/main/IMG_0269.PNG?raw=true" width="300" />
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 For this project, I focused on ensuring smooth data loading and creating a well-rounded app. My primary goal was to lay a strong foundation, ensuring that all aspects of the app functioned properly. This included making sure data was loaded efficiently, the app was responsive, and that everything was well-integrated and performing as expected.
